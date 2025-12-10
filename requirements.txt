@@ -1,4 +1,6 @@
-langchain
-langchain-groq
-python-dotenv
-gunicorn
+Flask==3.0.3
+gunicorn==21.2.0
+python-dotenv==1.0.1
+langchain>=0.2.12
+langchain-core>=0.2.40
+langchain-groq>=0.2.0
